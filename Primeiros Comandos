@@ -1,0 +1,5 @@
+# Verificar o ip da maquina
+IP ADD
+
+#Utilizar o linux no cmd do windows.
+SSH nome_usuario @ IP
