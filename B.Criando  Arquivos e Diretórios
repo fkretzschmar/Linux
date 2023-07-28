@@ -18,3 +18,5 @@ mkdir --help
 touch arq1
 
 
+#Criar um diretório contendo espaço no nome do mesmo
+mkdir diretorio\ 1
