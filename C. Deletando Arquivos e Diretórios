@@ -1,0 +1,18 @@
+#Deletar diretório, não pode ter diretórios ou arquivos dentro do mesmo
+rmdir dir5/
+
+
+#Deletar arquivos
+rm arq1 arq2 .arq3
+
+
+#Deletar o diretório e tudo dentro dele, porem se tiver alguns tipos de arquivos isso não vai ser possivel
+rm -r dir1
+
+
+#Forçar deletar o diretório e tudo dentro dele
+rm -rf dir1/
+
+
+#Argumentos(comandos) de deletar
+rm --help
