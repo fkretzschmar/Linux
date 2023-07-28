@@ -5,6 +5,9 @@ mkdir arqs_dirs
 #Entrar dendro do diretório criado
 cd arqs_dirs/
 
+#criar varios diretórios
+mkdir dir1 dir2 dir3
+
 
 #criar varios diretórios um dentro do outro
 mkdir -p dir1/dir2/dir3/dir4/
