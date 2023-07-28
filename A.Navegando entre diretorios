@@ -48,6 +48,13 @@ cd
 #Ir para um diretorio
 cd /lib/linux
 
+#Retornar o diretorio que você estava
+cd -
+
+
+#Para retornar um diretorio
+cd ..
+
 
 
 
