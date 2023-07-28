@@ -8,3 +8,46 @@ SSH nome_usuario @ IP
 
 #Atualizar o Linux
 sudo apt update
+
+
+#verificar aonde estou
+pwd
+
+
+#Listar  Arquivos
+ls
+
+#Vai listar todo o conteudo do diretorio, listando também os arquivos ocultos que inicião com (.)
+ls -a
+
+
+#Para ter um detalhamento maior utilizamos o l após o -a
+ls -al
+atalho ll
+
+
+
+#Criar um arquivo em branco
+touch teste.arq
+
+
+#Limpar a tela
+clear
+atalho Ctrl l
+
+
+Verificar argumentos(comandos) que podemos utilizar
+ls --help
+atalho --help
+
+
+#Retornar para o home
+cd
+
+
+#Ir para um diretorio
+cd /lib/linux
+
+
+
+
