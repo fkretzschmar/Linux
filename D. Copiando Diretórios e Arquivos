@@ -1,0 +1,19 @@
+#Estando no diretório abaixo copie dir1 e cole o mesmo dentro do dir2
+~/labs/copy_move$
+comando:
+cp -r dir1 dir2
+
+
+
+#Copiar todos arquivos e diretórios dentro dir1, não copiando o dir1 em si apenas o conteudo dentro do mesmo
+~/labs/copy_move/dir1$
+comando:
+cp -r * ../dir2
+Obs:"Copiar tudo dentro do diretório e colar no diretório anterior dir2."
+
+
+
+#Estando no diretório copy_move, copie tudo do dir1 para o dir2
+~/labs/copy_move$
+comando:
+cp -r dir1/* dir2
