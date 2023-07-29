@@ -14,5 +14,9 @@ rm -r dir1
 rm -rf dir1/
 
 
+#Deletar tudo dentro do diretório em diante
+rm -rf *
+
+
 #Argumentos(comandos) de deletar
 rm --help
