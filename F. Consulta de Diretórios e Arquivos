@@ -1,0 +1,23 @@
+#Consulta todos que tem o nome inicial arq
+ls arq*
+
+
+#Consultar todos que tem o nome arq1 e mais um numero
+ls arq1?
+
+
+#Consultar todos que tem o numero 1
+ls *1*
+ou
+ls *tmp*
+
+
+#Consultar todos que no quarto caracteres tem numenor do 1 ao 5
+ls ???[1-5]
+ou
+ls ???[1-5]*
+
+
+
+#Consultar todos que no quarto caracteres tem numenor do 2 e 3
+ls ???[2,3]
