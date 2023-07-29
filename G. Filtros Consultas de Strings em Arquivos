@@ -1,0 +1,29 @@
+#Mostrar tudo dentro do arquivo
+cat services
+
+
+#Filtrar a string http no arquivo services
+grep http services
+grep -i http services
+Obs: com o -i vai trazer a string maiuscula e minuscula
+
+
+
+#Filtrar dentro do diretório tudos arquivos que possui o nome ricardo
+grep ricardo *
+
+
+
+#Filtrar em qual arquivo tem a string ricardo
+grep -l ricardo *
+
+
+#Filtrar todos os arquivos que não tem a string ricardo
+grep -L ricardo *
+
+
+Filtrar dentro do repositório atual todos arquivos e repositórios que possuem a string HTTP
+grep -r HTTP *
+ou
+grep -ri http *
+
