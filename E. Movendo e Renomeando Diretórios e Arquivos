@@ -1,0 +1,9 @@
+#O comando abaixo serve tanto para mover quanto para renomear,
+então se tentar mover um diretorio para outro diretório e o mesmo não existe,
+estara renomeando o mesmo.
+mv dir1 dir4
+Obs:Não existe o dir4 então ele estara renomeando o nome de dir1 para dir4
+
+
+#Criamos o dir4 e movemos todo conteudo dir1 para o dir4 com o comando abaixo
+mv dir1/* dir4
