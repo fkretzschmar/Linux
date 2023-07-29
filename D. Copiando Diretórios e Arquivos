@@ -17,3 +17,9 @@ Obs:"Copiar tudo dentro do diretório e colar no diretório anterior dir2."
 ~/labs/copy_move$
 comando:
 cp -r dir1/* dir2
+
+
+#Copiar arquivo que esta em outro diretório para o que você esta atualmente
+cp /etc/services .
+
+
