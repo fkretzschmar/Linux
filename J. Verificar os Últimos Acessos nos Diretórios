@@ -1,0 +1,10 @@
+#Verificar o último acessos em Arquivos ou Diretórios
+ls -l
+
+
+#Verificar os últimos acessos ao diretório nos ultimos 5 minutos
+find . -amin -5
+
+
+#Verificar os últimos acessos ao diretório nos ultimos 2 dias
+find . -atime -2
