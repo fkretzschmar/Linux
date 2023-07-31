@@ -1,0 +1,8 @@
+#Localizar arquivo em todos os diretórios
+find / -name *.com
+sudo find / -name *.com
+
+#Localizar arquivo apartir do diretório etc
+sudo find /etc -maxdepth 2 -name *.conf
+Obs: -maxdepth vai mostrar o caminho/quantidade de diretórios que você deseja ver até o arquivo.
+
