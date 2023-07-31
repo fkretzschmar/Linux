@@ -1,0 +1,7 @@
+1>   Sobrescreve o arquivo com a saída padrão.
+2>   Sobrescreve o arquivo com a saída de erro.
+&>   Sobrescreve o arquivo com odas as saídas.
+1>>  Adiciona a saída padrão no final do arquivo.
+2>>  Adiciona a saída de erro no final do arquivo.
+&>>  Adiciona todas as saídas no final do arquivo.
+
