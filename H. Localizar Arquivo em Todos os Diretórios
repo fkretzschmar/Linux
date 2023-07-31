@@ -6,3 +6,5 @@ sudo find / -name *.com
 sudo find /etc -maxdepth 2 -name *.conf
 Obs: -maxdepth vai mostrar o caminho/quantidade de diretórios que você deseja ver até o arquivo.
 
+#Localizar Arquivo por Tamanho
+sudo find / -size +100M
