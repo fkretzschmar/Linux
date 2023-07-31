@@ -1,0 +1,2 @@
+#- Isso pesquisa o arquivo arquivo_entrada.txt em busca de linhas que contêm a palavra 'erro' e salva as linhas correspondentes no arquivo resultado.txt.
+grep 'erro' < arquivo_entrada.txt > resultado.txt
