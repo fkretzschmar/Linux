@@ -1,0 +1,3 @@
+
+#Verificar informações do Arquivo(Tamanho)
+ls -lh /swap.img
