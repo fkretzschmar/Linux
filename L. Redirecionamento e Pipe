@@ -5,3 +5,6 @@
 2>>  Adiciona a saída de erro no final do arquivo.
 &>>  Adiciona todas as saídas no final do arquivo.
 
+
+#Redirecionar o erro para o buraco negro
+sudo find / -name doidao 2> /dev/null
